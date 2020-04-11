@@ -2,5 +2,3 @@
 date
 cal
 ls
-djgnzdjfzkz
-werywouiryowue
